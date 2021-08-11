@@ -6,6 +6,7 @@ use Pecee\Http\Url;
 use Pecee\Http\Response;
 use Pecee\Http\Request;
 
+
 /**
  * Get url for a route by using either name/alias, class or method name.
  *

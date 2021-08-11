@@ -2,7 +2,9 @@
     "name": "saveriomigale/portfolio-page",
     "require": {
         "pecee/simple-router": "4.3.7.2",
-        "jenssegers/blade": "^1.4"
+        "jenssegers/blade": "^1.4",
+        "vlucas/phpdotenv": "^5.3",
+        "davidecesarano/embryo-pdo": "^1.0"
     },
 
     "autoload": {
